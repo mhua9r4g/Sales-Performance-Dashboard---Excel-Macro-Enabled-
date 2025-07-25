@@ -25,4 +25,11 @@ It’s an early step in my journey toward mastering data analytics — combining
 - **Excel PivotTables & PivotCharts**  
 - **Slicers & Timeline filters**  
 - **VBA Macros** for syncing slicers and automating interactions  
-- **C**
+- **Conditional Formatting**  
+- **Data storytelling principles**  
+- **Dashboard design best practices**
+
+---
+
+## 📂 Folder Structure
+
